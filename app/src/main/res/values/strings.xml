@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cardview</string>
+    <string name="name">Name</string>
+    <string name="propellant">Propellant.....................</string>
+</resources>
